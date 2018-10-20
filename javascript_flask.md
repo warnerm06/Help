@@ -1,3 +1,4 @@
+# How to access flask variables from a .js file
 ## app.py
     #NOTE: This is only part of the SQLAlchemy setup for demonstration purposes. 
     
