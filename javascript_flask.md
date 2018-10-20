@@ -35,7 +35,7 @@
         var htmldata = {{ restultsList| tojson}};
     </script>
   
-    // a dive with an id for our plotly 
+    // a div with an id for our plotly 
     <div id="myDiv"></div>
     
     </body>
